@@ -43630,7 +43630,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -43728,7 +43728,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"top": 16,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -43829,7 +43829,7 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -16,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -43979,7 +43979,7 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": -48,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -44079,7 +44079,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"top": -48,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -44208,7 +44208,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -44306,7 +44306,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -32,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
@@ -45163,7 +45163,7 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": -48,
-											"width": 116.27001953125,
+											"width": 120.44677734375,
 											"height": 13,
 											"text": "(from 数据库管理员)"
 										},
@@ -46439,7 +46439,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -32,
-											"width": 90.27001953125,
+											"width": 94.44677734375,
 											"height": 13,
 											"text": "(from 权限管理)"
 										},
